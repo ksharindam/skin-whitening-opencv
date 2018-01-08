@@ -12,9 +12,9 @@
 * libopencv-objdetect-dev
 
 **To build...**
-Open terminal and change to source directory.
-Run...
-`qmake`
-`make -j4`
+Open terminal and change to source directory.  
+Run...  
+`qmake`  
+`make -j4`  
 
 
