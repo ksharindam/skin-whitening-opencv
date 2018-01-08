@@ -1,0 +1,9 @@
+# Compiled Libraries
+*.so
+*.o
+
+# Autocreated source files
+moc_*
+qrc_*
+Makefile
+whiten
