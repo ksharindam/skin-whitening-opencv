@@ -11,7 +11,7 @@
 * libopencv-imgproc-dev
 * libopencv-objdetect-dev
 
-**To build...**
+**To build...**  
 Open terminal and change to source directory.  
 Run...  
 `qmake`  
